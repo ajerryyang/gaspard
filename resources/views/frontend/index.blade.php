@@ -1,8 +1,9 @@
 
 @extends('frontend.layouts.master')
 @section('title', 'Home')
+@section('nav_home', 'active');
 @section('content')
- 
+
 
   <section class="page-section clearfix">
     <div class="container">

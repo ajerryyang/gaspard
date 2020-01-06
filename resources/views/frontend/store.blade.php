@@ -1,5 +1,6 @@
 @extends('frontend.layouts.master')
 @section('title', 'Business Casual - Start Bootstrap Theme')
+@section('nav_store', 'active');
 @section('content')
 
 
